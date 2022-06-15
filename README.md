@@ -1,2 +1,3 @@
-# Administrador_Cursos
-Aplicativo Web orientado al manejo de los cursos de estudiantes donde estos pueden consultar sus materias registradas junto con la información adicional. De la misma manera, un usuario (profesor) puede ingresar para consultar la información de sus estudiantes.
+# Aplicativo_Web_Centro_de_Formación
+Aplicativo Web  para un centro de formación, donde se pueden consultar los alumnos inscritos, así como los diferentes cursos en los que se encuentra matriculado un alumno.  De la misma manera el alumno puede ingresar con su rol correspondiente para ver su información asi como los cursos matriculados.
+Esta aplicación web esta desarrollada con  HTML, CSS y PHP; con una base de datos conectada  a MySQL.
