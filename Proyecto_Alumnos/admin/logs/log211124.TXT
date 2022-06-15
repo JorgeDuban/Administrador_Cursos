@@ -1,0 +1,6 @@
+02:24:12  ADMIN           INGRESO AL SISTEMA                               45.177.108.106
+02:28:20  ADMIN           INGRESO DATOS ERRONEOS                           45.177.108.106
+02:31:18  ADMIN           INGRESO AL SISTEMA                               45.177.108.106
+02:37:52  ADMIN           INGRESO AL SISTEMA                               45.177.108.106
+02:40:23  ADMIN           INGRESO DATOS ERRONEOS                           45.177.108.106
+02:40:55  ADMIN           INGRESO AL SISTEMA                               45.177.108.106

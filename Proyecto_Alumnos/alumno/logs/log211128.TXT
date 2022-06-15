@@ -1,0 +1,3 @@
+17:02:49  JDU             INGRESO DATOS ERRONEOS                           45.177.108.106
+17:03:30  JDUBANBERNAL    INGRESO AL SISTEMA                               45.177.108.106
+18:56:53  JDUBANBERNAL    INGRESO AL SISTEMA                               45.177.108.106
